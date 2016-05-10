@@ -1,4 +1,4 @@
-baseurl = "http://stephenylc.github.io/"
+#baseurl = "http://"
 languageCode = "en-us"
 title = "Stephen's Blog"
 
